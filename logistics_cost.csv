@@ -1,0 +1,11 @@
+Distance_km,Traffic_Level,Vehicle_Type,Fuel_Price,Total_Delivery_Cost
+1.0,Low,Bajaj,65,10
+2.0,Medium,Bajaj,65,12
+3.0,High,Taxi Damas,68,16
+4.0,Medium,Taxi Damas,68,18
+5.0,High,Taxi,70,25
+2.5,Low,Bajaj,65,11
+3.5,Medium,Taxi Damas,68,17
+4.5,High,Taxi,70,28
+1.5,Low,Bajaj,65,10
+3.0,Medium,Taxi,70,30
